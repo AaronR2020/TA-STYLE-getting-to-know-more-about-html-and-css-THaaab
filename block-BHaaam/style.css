@@ -1,0 +1,16 @@
+.btn{
+    background-color: olive;
+
+}
+a.btn{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+   
+}
+.main_img{
+    height: 200px;
+    width: 400px;
+    display: block;
+    
+}
